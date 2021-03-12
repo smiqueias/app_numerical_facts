@@ -1,20 +1,21 @@
-<<<<<<< HEAD
-# number_facts
+# <p align="center"> NUMERICAL FACTS
 
-A new Flutter project.
+<p align="center">
+<a href="https://www.linkedin.com/in/saulo-nascimento-b6050b1b3/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" alt="linkedin"></a>
 
-## Getting Started
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Um aplicatico para fatos interessantes sobre números.
+## Tecnologias Utilizadas
+- Dart
+- Flutter
+- GetX
+- Dio
+## Imagens
+<p float="left">
+<img src="https://i.imgur.com/02tDM4t.png" alt="Tela do App" width="300"/>
+<img src="https://i.imgur.com/INtdgaB.png" alt="Tela do App" width="300"/>
+<img src="https://i.imgur.com/39QC9V3.png" alt="Tela do App" width="300"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# app_numerical_facts
->>>>>>> 75215d2a81e21c18429278a473f28cfcd59c2aa4
